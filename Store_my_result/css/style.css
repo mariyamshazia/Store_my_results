@@ -1,0 +1,64 @@
+*{
+  margin:0px;
+  padding: 0px;
+}
+    
+
+/*Login Start*/
+
+#primary{ 
+    background-color:#1abc9c;
+    color:black;
+}
+.forget a{
+  text-decoration:none;
+  color:#000408;
+}
+.forget a:hover{
+  color:white;
+}
+.forget{
+  /*margin-top:5px;*/
+  padding-top:10px;
+}
+/*Login Close*/
+h1{
+  font-family:font-family: 'Lobster', cursive;
+  color:#ffffff;
+}
+#top{
+  margin:0px;
+}
+.thumbnail a img:hover{
+box-shadow:5px 5px 5px #000408;
+}
+#font{
+      font-family: 'Abril Fatface', cursive;
+      color:red;
+      margin-top:50px;
+      /*padding-top:50px;
+      height:auto;*/
+    }
+    .bg-1 { 
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+  }
+  #bt{
+    float:right;
+    margin-left:15px;
+    border-radius:10px;
+    border:none;
+  }
+  @media screen and (max-width:600px)
+      {
+        .frame{
+          width:100%;
+        }
+      }
+@media screen and (max-width:600px)
+      {
+        .amit{
+          text-align:center;
+        }
+    }
+    
